@@ -1,6 +1,6 @@
 # Elec-Task3-Servo
 
-## Task1-Code
+## Task1-Servo-Code
 
 #include <Servo.h>
 
@@ -48,7 +48,7 @@ void loop() {
 
 ---
 
-## Task2-Code
+## Task2-Stepper motor-Code
 
 #define DIR_PIN 12 
 #define STEP_PIN 14 
