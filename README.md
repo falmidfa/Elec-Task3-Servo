@@ -47,6 +47,10 @@ void loop() {
 }
 
 ---
+## Tinkercad Link
+https://www.tinkercad.com/things/2PBmfWl4Bsp-servomotors?sharecode=22ihSUwrN-32gV6vxBiz0PzR6_wEOd46BgT0MfJEguc
+
+---
 
 ## Task2-Stepper motor-Code
 
@@ -139,3 +143,7 @@ void loop() {
   Serial.println("Ramp cycle complete");
   while (true) { delay(1000); } // stop here
 }
+
+ ---
+ ## WOKWI Link
+ https://wokwi.com/projects/446454829896594433
